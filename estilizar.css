@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(50, 94, 54);
+  }
+
+  h1{ color:rgb(94, 50, 50);}
+
+  p {font-size: 20px; text-align: justify;}
+
+  ul {
+  margin-top: 15px;
+  margin-bottom: 10px;
+  padding-left: 15px;
+}
+
+img {
+  border-radius: 10px;
+  width: 200px;       
+  height: 150px;      
+}
+
+table, th, td {
+  border-collapse: collapse; border: 1px solid;
+}
+
+a:link {
+  color: rgb(94, 50, 50);
+}
+
+a:visited {
+  color: hotpink;
+}
+
+a:hover {
+  color: lightblue;
+}
+
+a:active {
+  color: red;
+}
